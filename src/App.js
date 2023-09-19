@@ -6,7 +6,7 @@ import "./components/common.css";
 function App() {
   return (
     <div className="main">
-      <Mob id="hii"/>
+      <Mob/>
     </div>
   );
 }
